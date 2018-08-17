@@ -1,3 +1,3 @@
 # dotnet-build
 
-Docker image for the .NET Core build process.
+Docker image for building .NET Core projects.
