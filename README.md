@@ -1,2 +1,3 @@
-# docker-build
-Docker image for the Dot net core build process
+# dotnet-build
+
+Docker image for the .NET Core build process.
