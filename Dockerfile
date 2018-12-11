@@ -8,7 +8,7 @@ RUN apt-get update && \
     ca-certificates \
     curl \
     gnupg2 \
-    python3.6 \
+    python3 \
     software-properties-common && \
     rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*
 
