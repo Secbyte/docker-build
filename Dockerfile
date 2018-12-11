@@ -4,7 +4,6 @@ RUN apt-get update && \
     apt-get install -y --no-install-recommends \
     zip \
     xsltproc \
-    make \
     apt-transport-https \
     ca-certificates \
     curl \
